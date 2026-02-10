@@ -23,7 +23,7 @@ tensorflow
 # ===============================
 opencv-python
 face-recognition
-dlib
+
 imutils
 mtcnn
 
